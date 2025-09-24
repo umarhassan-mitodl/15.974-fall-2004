@@ -1,0 +1,47 @@
+{
+  "term": "Fall",
+  "year": "2004",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Business",
+      "Leadership"
+    ],
+    [
+      "Social Science",
+      "Communication"
+    ]
+  ],
+  "legacy_uid": "fdd16a0e-c143-59da-2724-026f0fe36809",
+  "instructors": {
+    "content": [
+      "811f2a84-3737-601d-fa6d-605081fe6cdf"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "cc37f379-96c4-3039-5325-7a411bddf093",
+    "website": "15-974-practical-leadership-fall-2004"
+  },
+  "course_title": "Practical Leadership",
+  "course_description": "Practical Leadership is an interactive seminar where students receive repeated coaching and real-time feedback on their own leadership capabilities from their peers and the instructor. The course is structured around a set of readings. However, the key component is each student's own self-assessment. These self-assessments are done by the students in the first week of the semester. The areas for improvement that the students identify are then targeted in the weekly role plays that are customized for each student in the class. The goal of the class is for each student to increase his or her own leadership abilities through an ongoing cycle of practice, feedback and reflection.\n",
+  "department_numbers": [
+    "15"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "15.974",
+  "course_image_thumbnail": {
+    "content": "33f6c4fe-3d9b-0356-f67e-87c11f8b036d",
+    "website": "15-974-practical-leadership-fall-2004"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Presentation Assignments"
+  ],
+  "site_uid": "8603b1e5-3561-4dea-a709-d020770c9d8c",
+  "site_short_id": "15.974-fall-2004",
+  "site_url_path": "courses/15-974-practical-leadership-fall-2004",
+  "title": "Course Metadata"
+}
