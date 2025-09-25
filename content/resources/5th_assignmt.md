@@ -4,6 +4,8 @@ description: A reading assignment and instructions to prepare for a role-play ex
 file: /courses/15-974-practical-leadership-fall-2004/2d9eff619e254cdc7d502703c1a1dfbb_5th_assignmt.pdf
 file_size: 9564
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
