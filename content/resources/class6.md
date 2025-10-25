@@ -5,8 +5,6 @@ description: These lecture notes contain the class agenda and assignments for th
 file: /courses/15-974-practical-leadership-fall-2004/21c30847350bcd551c7f07ed6d74f3c9_class6.pdf
 file_size: 38306
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
